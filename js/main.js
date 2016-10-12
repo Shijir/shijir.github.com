@@ -2,7 +2,7 @@ requirejs.config({
     baseUrl: 'js',
     paths: {
         domReady: '../libs/domReady/domReady.min',
-        jquery: '../libs/jQuery/dist/jquery.min',
+        jquery: '../libs/jquery/dist/jquery.min',
         bootstrap: '../libs/bootstrap/dist/js/bootstrap.min',
         tweenmax: '../libs/greensock/src/minified/TweenMax.min',
         scrollto: '../libs/greensock/src/minified/plugins/ScrollToPlugin.min',
