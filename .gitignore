@@ -1,0 +1,7 @@
+.sass-cache/
+img
+!compressed/img/
+img/utilities
+old-portfolio
+node_modules
+*.map*
