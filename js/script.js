@@ -342,9 +342,9 @@ define(['domReady', 'jquery', 'tweenmax', 'scrollto', 'typeit', 'skrollr'], func
       function typeIt() {
         $('.type-it').typeIt({
           strings: [
-            "I'm a Seattle-based <span class='nowrap'>front-end engineer</span> with <span class='nowrap mark'>5 years</span> <span class='nowrap'>of experience</span>...",
+            "I'm a Seattle-based <span class='nowrap'>UI/UX engineer</span> with <span class='nowrap mark'>5 years</span> <span class='nowrap'>of experience</span>...",
             "I'm currently working on some badass projects at VMware.",
-            "I'm a Seattle-based <span class='nowrap'>front-end engineer</span> with <span class='nowrap mark'>5 years</span> <span class='nowrap'>of experience</span>."
+            "I'm a Seattle-based <span class='nowrap'>UI/UX engineer</span> with <span class='nowrap mark'>5 years</span> <span class='nowrap'>of experience</span>."
           ],
           speed: 50,
           startDelay: 1500,
